@@ -1,4 +1,4 @@
-# Optima: Intelligent Support Ticket Classification
+# Smart-Text-Classifier
 
 ## 1. The Problem: 
 In high-volume customer support environments, speed and accuracy are everything. Routing a "Billing" question to a "Technical" support agent wastes time and frustrates customers. 
@@ -63,7 +63,7 @@ Optima/
 ### Installation
 ```bash
 # 1. Clone the repo
-git clone https://github.com/IshaNayal/Optima.git
+git clone https://github.com/IshaNayal/Smart-Text-Classifier
 cd Optima
 
 # 2. Install dependencies
